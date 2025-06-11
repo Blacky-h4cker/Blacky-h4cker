@@ -34,7 +34,7 @@
 
 </p>
 
-![i4m-r4vi's Stats](https://github-readme-stats.vercel.app/api?username=i4m-r4vi&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![i4m-r4vi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i4m-r4vi&theme=dark&hide_border=true)
-![i4m-r4vi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i4m-r4vi&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![LeetCode Stats](https://leetcode.card.workers.dev/cyber_r4vi?theme=dark&font=baloo&extension=null)
+![blacky-h4cker's Stats](https://github-readme-stats.vercel.app/api?username=blacky-h4cker&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![blacky-h4cker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blacky-h4cker&theme=dark&hide_border=true)
+![blacky-h4cker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacky-h4cker&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![LeetCode Stats](https://leetcode.card.workers.dev/blacky-h4cker?theme=dark&font=baloo&extension=null)
