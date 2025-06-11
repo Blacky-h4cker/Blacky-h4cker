@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohana Muralitharan</h1>
 <h3 align="center">A Full Stack Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i4m-r4vi&label=Profile%20views&color=0e75b6&style=flat" alt="i4m-r4vi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacky-h4cker&label=Profile%20views&color=0e75b6&style=flat" alt="blacky-h4cker" /> </p>
 
 - 🌱 I’m currently learning **JAVA Full Stack Development**
 
