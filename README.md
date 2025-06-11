@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [i4m-r4vi.netlify.app](https://i4m-r4vi.netlify.app)
+- 👨‍💻 All of my projects are available at [blacky45.netlify.app](https://blacky45.netlify.app)
 
 - 💬 Ask me about **HTML CSS JavaScript ReactJS Java Springboot Oracledb **
 
