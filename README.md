@@ -36,5 +36,5 @@
 
 ![blacky-h4cker's Stats](https://github-readme-stats.vercel.app/api?username=blacky-h4cker&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![blacky-h4cker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blacky-h4cker&theme=dark&hide_border=true)
-![blacky-h4cker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blacky-h4cker&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/blacky-h4cker?theme=dark&font=baloo&extension=null)
